@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = haroldo_oliveira@yahoo.com.br
+	name = haroldooliveira
