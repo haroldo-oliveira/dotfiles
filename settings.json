@@ -62,7 +62,7 @@
         "**/vendor/**": true
     },
     "git.enabled": false,
-    "python.defaultInterpreterPath": "~/.pyenv/shims/python",
+    "python.defaultInterpreterPath": "/Users/haroldinho/.pyenv/versions/3.8.12/envs/lewagon/bin/python",
     "python.formatting.provider": "yapf",
     "python.terminal.activateEnvironment": false,
     "ruby.lint":
@@ -75,5 +75,10 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "bracketPairColorizer.depreciation-notice": false,
+    "python.pythonPath": "/Users/haroldinho/.pyenv/versions/3.8.12/envs/lewagon/bin/python",
+    "gitlens.advanced.messages": {
+      "suppressGitDisabledWarning": true
+    }
 }
